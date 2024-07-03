@@ -6,35 +6,35 @@ Repositório contendo vários projetos em JavaScript.
 
 1. **Bank-login**
    - Descrição: Sistema de login para bancos.
-   - Status: Inicial.
+   - Status: Iniciante.
 
 2. **Calc-de-Rankeadas**
    - Descrição: Calculadora de ranqueadas.
-   - Status: Inicial.
+   - Status: Iniciante.
 
 3. **Clinica-Medica**
    - Descrição: Sistema de gestão para clínicas médicas.
-   - Status: Inicial.
+   - Status: Iniciante.
 
 4. **Desafio-Heroi**
    - Descrição: Desafio de desenvolvimento de um herói.
-   - Status: Inicial.
+   - Status: Iniciante.
 
 5. **Desafio-de-HTML**
    - Descrição: Desafio relacionado ao desenvolvimento HTML.
-   - Status: Inicial.
+   - Status: Iniciante.
 
 6. **Material-De-Estudo-HTML**
    - Descrição: Material de estudo sobre HTML.
-   - Status: Inicial.
+   - Status: Iniciante.
 
 7. **Projeto-Hero**
    - Descrição: Projeto relacionado ao desenvolvimento de um herói.
-   - Status: Inicial.
+   - Status: Iniciante.
 
 8. **Site-academia**
    - Descrição: Desenvolvimento de um site para academia.
-   - Status: Inicial.
+   - Status: Iniciante.
 
 ## Estrutura
 
